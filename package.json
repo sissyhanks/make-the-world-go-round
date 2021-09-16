@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/sissyhanks/make-the-world-go-round"
   },
-  "author": "",
+  "author": "Bernie McKnight",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/coding-boot-camp/unit18hw/issues"
