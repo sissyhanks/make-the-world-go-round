@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/coding-boot-camp/unit18hw/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://fierce-beyond-00777.herokuapp.com/",
   "dependencies": {
     "compression": "^1.7.4",
     "dotenv": "^10.0.0",
